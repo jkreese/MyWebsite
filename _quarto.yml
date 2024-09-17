@@ -3,12 +3,13 @@ project:
   output-dir: docs
 
 website:
-  title: "Mywebsitetemp"
+  title: "Jessica Kristin Reese"
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: "Home"      
+      - href: about.qmd
+        text: "About"
 
 format:
   html:
