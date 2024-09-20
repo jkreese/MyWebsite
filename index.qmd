@@ -2,10 +2,4 @@
 title: "Jessica Kristin Reese"
 ---
 
-This is a new website
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+![](images/1715402504.9082131.jpeg)
