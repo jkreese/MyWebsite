@@ -2,4 +2,4 @@
 title: "Jessica Kristin Reese"
 ---
 
-![](images/1715402504.9082131.jpeg)
+![](images/1715402504.9082131.jpeg){fig-align="center"}
