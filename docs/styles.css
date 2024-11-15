@@ -1,1 +1,6 @@
 /* css styles */
+h1, h2, h3, h4, h5, h6 {
+    border-bottom: 2px solid #ccc; /* Adjust thickness and color as desired */
+    padding-bottom: 5px; /* Optional: adds space between the text and the line */
+    margin-bottom: 15px; /* Optional: adds space after the line */
+}

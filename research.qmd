@@ -1,18 +1,17 @@
 ---
-title: "Research"
+title: ""
+css: styles.css
 ---
 
 # [CV](https://gvpt.umd.edu/sites/gvpt.umd.edu/files/cv/CV%20-%20Jessica%20Reese.pdf)
 
 My research focuses on racial and ethnic politics, with a particular emphasis on voting behavior and the evolving dynamics of Black conservatism. I aim to explore how these intersections shape political ideologies, voter perceptions, and broader patterns of political engagement in the United States.
 
+# Pre-Registrations
+
 # Undergraduate Honors Thesis
 
-**Destroying the Myth of the Monolith: A Historical Observation of the Black Conservative from Then to Now**
-
-[Link to Article](https://aquila.usm.edu/cgi/viewcontent.cgi?article=1874&context=honors_theses)
-
-Reese, Jessica. 2022. “Destroying the Myth of the Monolith: A Historical Observation of the Black Conservative from Then to Now.” *Honors Theses* 884: 1–32.
+[Destroying the Myth of the Monolith: A Historical Observation of the Black Conservative from Then to Now.](https://aquila.usm.edu/cgi/viewcontent.cgi?article=1874&context=honors_theses) Reese, Jessica. 2022. “Destroying the Myth of the Monolith: A Historical Observation of the Black Conservative from Then to Now.” *Honors Theses* 884: 1–32.
 
 	
 		
