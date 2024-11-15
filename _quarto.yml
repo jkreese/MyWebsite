@@ -11,6 +11,8 @@ website:
       - href: research.qmd
         text: "Research"
       - href: https://gvpt.umd.edu/sites/gvpt.umd.edu/files/cv/CV%20-%20Jessica%20Reese.pdf
+      - href: data.umd
+        text: "Data"
 
 format:
   html:

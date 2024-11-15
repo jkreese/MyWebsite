@@ -1,0 +1,7 @@
+---
+title: ""
+---
+
+Here is more information on the data that I use in my projects.
+
+[Sentiment Analysis of Kamala Harris](https://github.com/jkreese/black_politics?tab=MIT-1-ov-file)
