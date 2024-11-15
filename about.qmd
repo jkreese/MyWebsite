@@ -1,9 +1,0 @@
----
-title: "About"
----
-
-We are saying something here
-
-```{r}
-1 + 1
-```
