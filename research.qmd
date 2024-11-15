@@ -7,7 +7,15 @@ css: styles.css
 
 My research focuses on racial and ethnic politics, with a particular emphasis on voting behavior and the evolving dynamics of Black conservatism. I aim to explore how these intersections shape political ideologies, voter perceptions, and broader patterns of political engagement in the United States.
 
+# Articles
+
+*Working Paper:*  Emotional Expectations for the Status and Race of Politicians
+
 # Pre-Registrations
+
+[Voter Sentiment of Kamala Harris](https://doi.org/10.17605/OSF.IO/EHN94).
+
+This study examines the sentiment of Black male voters toward the Democratic Party, specifically focusing on Vice President Kamala Harris.
 
 # Undergraduate Honors Thesis
 
