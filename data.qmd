@@ -2,6 +2,6 @@
 title: ""
 ---
 
-Here is more information on the data that I use in my projects.
+Here's the link to data for my current sentiment analysis.
 
-[Sentiment Analysis of Kamala Harris](https://github.com/jkreese/black_politics?tab=MIT-1-ov-file)
+[Sentiment Analysis](https://github.com/jkreese/black_politics?tab=MIT-1-ov-file)
