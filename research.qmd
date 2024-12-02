@@ -17,10 +17,6 @@ My research focuses on racial and ethnic politics, with a particular emphasis on
 
 This study examines the sentiment of Black male voters toward the Democratic Party, specifically focusing on Vice President Kamala Harris.
 
-# Existing Data
-
-[Voter Sentiment of Kamala Harris](https://github.com/jkreese/black_politics?tab=MIT-1-ov-file).
-
 # Undergraduate Honors Thesis
 
 [Destroying the Myth of the Monolith: A Historical Observation of the Black Conservative from Then to Now.](https://aquila.usm.edu/cgi/viewcontent.cgi?article=1874&context=honors_theses) Reese, Jessica. 2022. “Destroying the Myth of the Monolith: A Historical Observation of the Black Conservative from Then to Now.” *Honors Theses* 884: 1–32.
