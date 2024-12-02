@@ -13,7 +13,7 @@ website:
       - href: https://gvpt.umd.edu/sites/gvpt.umd.edu/files/cv/CV%20-%20Jessica%20Reese.pdf
       - href: data.qmd
         text: "Data"
-      - href: https://github.com/jkreese/black_politics?tab=MIT-1-ov-file 
+      - href: https://github.com/jkreese/black_politics?tab=MIT-1-ov-file   
 
 format:
   html:
