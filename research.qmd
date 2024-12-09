@@ -11,6 +11,8 @@ My research focuses on racial and ethnic politics, with a particular emphasis on
 
 *Working Paper:*  Emotional Expectations for the Status and Race of Politicians
 
+[Sentiment Analysis of Vice President Kamala Harris: A Comparative Study Across Media Platforms](https://github.com/jkreese/MyWebsite/blob/main/729B%20Final%20Project.pdf)
+
 # Pre-Registrations
 
 [Voter Sentiment of Kamala Harris](https://doi.org/10.17605/OSF.IO/EHN94).
